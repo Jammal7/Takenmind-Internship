@@ -1,0 +1,11 @@
+,OrderDate,Region,Rep,Item,Units,Unit Cost,Total
+0,2014-09-01,Central,Smith,Desk,2,125.0,250.0
+1,2015-06-17,Central,Kivell,Desk,5,125.0,625.0
+2,2015-09-10,Central,Gill,Pencil,7,1.29,9.03
+3,2015-11-17,Central,Jardine,Binder,11,4.99,54.89
+4,2015-10-31,Central,Andrews,Pencil,14,1.29,18.06
+5,2014-02-26,Central,Gill,Pen,27,19.99,539.73
+6,2014-10-05,Central,Morgan,Binder,28,8.99,251.72
+7,2015-12-21,Central,Andrews,Binder,28,4.99,139.72
+8,2014-02-09,Central,Jardine,Pencil,36,4.99,179.64
+9,2015-08-07,Central,Kivell,Pen Set,42,23.95,1005.9

@@ -1,0 +1,11 @@
+,Order ID,Order Date,Order Quantity,Sales,Ship Mode,Profit,Unit Price,Customer Segment,Product Category
+0,3,40464,6,261.54,Regular Air,-213.25,38.94,Small Business,Office Supplies
+1,6,40959,2,6.93,Regular Air,-4.64,2.08,Corporate,Office Supplies
+2,32,40739,26,2808.08,Regular Air,1054.82,107.53,Corporate,Furniture
+3,32,40739,24,1761.4,Delivery Truck,-1748.56,70.89,Corporate,Furniture
+4,32,40739,23,160.2335,Regular Air,-85.129,7.99,Corporate,Technology
+5,32,40739,15,140.56,Regular Air,-128.38,8.46,Corporate,Technology
+6,35,40838,30,288.56,Regular Air,60.72,9.11,Corporate,Office Supplies
+7,35,40838,14,1892.848,Regular Air,48.987,155.99,Corporate,Technology
+8,36,40849,46,2484.7455,Regular Air,657.477,65.99,Home Office,Technology
+9,65,40619,32,3812.73,Regular Air,1470.3,115.79,Corporate,Technology
